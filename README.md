@@ -1,2 +1,2 @@
 # stuff-im-learning
-just some online courses i'm taking to learn more R programming
+just some homework of online courses i'm taking to learn more R programming
